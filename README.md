@@ -12,4 +12,29 @@ Báo cáo này nhằm mục đích phân tích lượng khí thải carbon để
 <li>Nhóm ngành nào đã thể hiện sự giảm đáng kể nhất về dấu chân carbon (PCFs) theo thời gian?
 
 ### Các bảng dữ liệu
+***Bảng product_emissions***
 
+SELECT *
+FROM product_emissions
+LIMIT 10;
+
+***Bảng industry_groups***
+
+SELECT *
+FROM industry_groups
+LIMIT 10;
+
+***Bảng companies***
+
+SELECT *
+FROM companies
+LIMIT 10;
+
+***Bảng countries***
+
+SELECT *
+FROM countries
+LIMIT 10;
+
+***Data Structure***
+![https://lms.swisscoding.edu.vn/course/view.php?id=80&section=114](https://github.com/doanquynh1704/Carbon_emission_analysis/blob/main/Database%20diagram.png)
