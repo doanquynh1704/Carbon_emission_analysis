@@ -1,4 +1,6 @@
 # Carbon_emission_analysis
+![https://youmatter.world/en/category-environment/greenhouse-gases-co2-decarbonizing-28439/](https://github.com/doanquynh1704/Carbon_emission_analysis/blob/main/greenhouse-co2-climate.jpg)
+Source:https://youmatter.world/en/category-environment/greenhouse-gases-co2-decarbonizing-28439/
 ### Mô tả nhiệm vụ
 Báo cáo này nhằm mục đích phân tích lượng khí thải carbon để kiểm tra dấu chân carbon trên nhiều ngành công nghiệp khác nhau. Thông qua phân tích này, chúng ta hy vọng sẽ hiểu rõ hơn về tác động môi trường của các ngành công nghiệp khác nhau và đóng góp vào việc đưa ra các quyết định sáng suốt trong phát triển bền vững. Các câu hỏi cần trả lười như sau:
 <ol><li> Những sản phẩm nào đóng góp nhiều nhất vào lượng khí thải carbon?
